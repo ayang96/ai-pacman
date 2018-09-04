@@ -1,12 +1,3 @@
 ## Project Description
 
-This project implements basic file features to handle the storage and access of database tables for SQL-like queries.
-
-The features include:
-- schema creation
-- table record storage
-- creating and retrieving records
-- updating/deleting records
-- table iterators
-
-The implementation provides a set of test programs for evaluating the developed features.
+This project classifies handwritten images using a training data set. It uses a machine learning algorithm (perceptron algorithm) to train a linear classifier based on image features and detect if a handwritten digit is a number from 0 to 9. The project also uses a convolutional neural network algorithm.
