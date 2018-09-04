@@ -1,4 +1,4 @@
-## Project description
+## Project Description
 
 This project implements basic file features to handle the storage and access of database tables for SQL-like queries.
 
